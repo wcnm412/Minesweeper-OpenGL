@@ -364,3 +364,4 @@ FodyWeavers.xsd
 
 # remove includes for 3rd part libraries like glfw and glad for this project
 .include/
+include/
